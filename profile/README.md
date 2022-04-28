@@ -12,6 +12,7 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 ##### General Use
 
+* [Using Slack for Alerts & Updates](<https://github.com/lauringlab/AlertCode>)
 
 ##### RShiny Applications
 
