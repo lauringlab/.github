@@ -10,9 +10,14 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 ##### Pipelines for Data Processing
 
 
+##### General Use
+
+
 ##### RShiny Applications
 
 * [Displaying Zip Code and County Level SARS-CoV-2 Data](<https://github.com/lauringlab/sapphire_covid_display>)
+
+* [Processing SARS-CoV-2 Data Post-Testing](<https://github.com/lauringlab/sarscov2_application>)
 
 ##### Other
 
