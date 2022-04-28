@@ -1,6 +1,4 @@
-# .github
-
-### Lauring Lab at The University of Michigan
+# Lauring Lab at The University of Michigan
 
 Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
