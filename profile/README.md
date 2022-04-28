@@ -12,5 +12,6 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 ##### RShiny Applications
 
+* [Displaying Zip Code and County Level SARS-C0V-2 Data](<https://github.com/lauringlab/sapphire_covid_display>)
 
 ##### Other
