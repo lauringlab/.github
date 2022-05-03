@@ -1,5 +1,5 @@
 ![](https://github.com/lauringlab/.github/blob/main/Michigan-Medicine_Logo-Horizontal-WEBHEX.png)
-![](https://github.com/lauringlab/.github/blob/main/U-M_Logo-Hex-withoutline.png)
+![](https://github.com/lauringlab/.github/blob/main/U-M_Logo-Hex-withoutline.png =100x120)
 
 # Lauring Lab at The University of Michigan
 
