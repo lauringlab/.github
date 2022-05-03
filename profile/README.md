@@ -1,3 +1,5 @@
+![https://github.com/lauringlab/.github/blob/main/Michigan-Medicine_Logo-Horizontal-WEBHEX.png]
+
 # Lauring Lab at The University of Michigan
 
 Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
