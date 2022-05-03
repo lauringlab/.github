@@ -1,6 +1,6 @@
-# Lauring Lab at The University of Michigan
-
 ![](https://github.com/lauringlab/.github/blob/main/U-M_Logo-Horizontal-Hex.png)
+
+# Lauring Lab at The University of Michigan
 
 Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
