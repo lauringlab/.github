@@ -24,6 +24,8 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [Validation Analysis for McCrone & Lauring, 2016](<https://github.com/lauringlab/benchmarking_shiny>): McCrone, J. T., & Lauring, A. S. (2016). Measurements of Intrahost Viral Diversity Are Extremely Sensitive to Systematic Errors in Variant Calling. Journal of virology, 90(15), 6884–6895. https://doi.org/10.1128/JVI.00667-16
 
+* [Exploring iSNV, Particularly Tranmission Pairs](<https://github.com/lauringlab/Host_level_IAV_app>)
+
 ##### Other
 
 
