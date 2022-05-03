@@ -18,6 +18,12 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [PRE-PRINT Analysis for McCrone et. al., 2020](<https://github.com/lauringlab/IAV_within-host_Ne>): The effective population size and mutation rate of influenza A virus in acutely infected individuals. John T. McCrone, Robert J. Woods, Arnold S. Monto, Emily T. Martin, Adam S. Lauring. bioRxiv 2020.10.24.353748; doi: https://doi.org/10.1101/2020.10.24.353748
 
+* [Analysis for Baang et. al., 2021](<https://github.com/lauringlab/ProlongedReplicationCase>): Baang, J. H., Smith, C., Mirabelli, C., Valesano, A. L., Manthei, D. M., Bachman, M. A., Wobus, C. E., Adams, M., Washer, L., Martin, E. T., & Lauring, A. S. (2021). Prolonged Severe Acute Respiratory Syndrome Coronavirus 2 Replication in an Immunocompromised Patient. The Journal of infectious diseases, 223(1), 23–27. https://doi.org/10.1093/infdis/jiaa666
+
+* [Analysis for Valesano et. al., 2021](<https://github.com/lauringlab/Poliovirus_Intrahost>): Valesano, A. L., Taniuchi, M., Fitzsimmons, W. J., Islam, M. O., Ahmed, T., Zaman, K., Haque, R., Wong, W., Famulare, M., & Lauring, A. S. (2021). The Early Evolution of Oral Poliovirus Vaccine Is Shaped by Strong Positive Selection and Tight Transmission Bottlenecks. Cell host & microbe, 29(1), 32–43.e4. https://doi.org/10.1016/j.chom.2020.10.011
+
+* [Analysis for Valesano et. al., 2020](<https://github.com/lauringlab/Host_level_IBV_evolution>): Valesano, A. L., Fitzsimmons, W. J., McCrone, J. T., Petrie, J. G., Monto, A. S., Martin, E. T., & Lauring, A. S. (2020). Influenza B Viruses Exhibit Lower Within-Host Diversity than Influenza A Viruses in Human Hosts. Journal of virology, 94(5), e01710-19. https://doi.org/10.1128/JVI.01710-19
+
 
 
 ##### Pipelines for Data Processing/Analysis
