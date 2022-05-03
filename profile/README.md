@@ -48,5 +48,6 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 ##### Other
 
+* [Assay Analysis - Illumina, Influenza A](<https://github.com/lauringlab/NGS_mutation_rate_assay>); Assay used in Pauly, M. D., Procario, M. C., & Lauring, A. S. (2017). A novel twelve class fluctuation test reveals higher than expected mutation rates for influenza A viruses. eLife, 6, e26437. https://doi.org/10.7554/eLife.26437
 
 ##### No Longer Maintained
