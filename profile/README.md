@@ -24,7 +24,13 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [Analysis for Valesano et. al., 2020](<https://github.com/lauringlab/Host_level_IBV_evolution>): Valesano, A. L., Fitzsimmons, W. J., McCrone, J. T., Petrie, J. G., Monto, A. S., Martin, E. T., & Lauring, A. S. (2020). Influenza B Viruses Exhibit Lower Within-Host Diversity than Influenza A Viruses in Human Hosts. Journal of virology, 94(5), e01710-19. https://doi.org/10.1128/JVI.01710-19
 
+* [Analysis for McCrone et. al., 2018](<https://github.com/lauringlab/Host_level_IAV_evolution>): McCrone, J. T., Woods, R. J., Martin, E. T., Malosh, R. E., Monto, A. S., & Lauring, A. S. (2018). Stochastic processes constrain the within and between host evolution of influenza virus. eLife, 7, e35962. https://doi.org/10.7554/eLife.35962
 
+* [Analysis for Fitzsimmons et. al., 2018](<https://github.com/lauringlab/speed_fidelity>): Fitzsimmons, W. J., Woods, R. J., McCrone, J. T., Woodman, A., Arnold, J. J., Yennawar, M., Evans, R., Cameron, C. E., & Lauring, A. S. (2018). A speed-fidelity trade-off determines the mutation rate and virulence of an RNA virus. PLoS biology, 16(6), e2006459. https://doi.org/10.1371/journal.pbio.2006459
+
+* [Analysis for Lyons et. al, 2017](<https://github.com/lauringlab/TsTv_paper>): Lyons, D. M., & Lauring, A. S. (2017). Evidence for the Selective Basis of Transition-to-Transversion Substitution Bias in Two RNA Viruses. Molecular biology and evolution, 34(12), 3205–3215. https://doi.org/10.1093/molbev/msx251
+
+* 
 
 ##### Pipelines for Data Processing/Analysis
 
@@ -50,4 +56,4 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [Assay Analysis - Illumina, Influenza A](<https://github.com/lauringlab/NGS_mutation_rate_assay>); Assay used in Pauly, M. D., Procario, M. C., & Lauring, A. S. (2017). A novel twelve class fluctuation test reveals higher than expected mutation rates for influenza A viruses. eLife, 6, e26437. https://doi.org/10.7554/eLife.26437
 
-##### No Longer Maintained
+
