@@ -12,6 +12,8 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 ##### Pipelines for Data Processing/Analysis
 
+* [Variant Pipeline](<https://github.com/lauringlab/variant_pipeline>)
+
 * [Codon Shuffle Package](<https://github.com/lauringlab/CodonShuffle>): Jorge D M M, Mills R E, Lauring A S, CodonShuffle: a tool for generating and analyzing synonymously mutated sequences. Virus Evolution, 2015, 1(1): vev012
 
 ##### General Use
