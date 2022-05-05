@@ -48,6 +48,7 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [Using Slack for Alerts & Updates](<https://github.com/lauringlab/AlertCode>)
 
+* [Report Generation & Visualization - SARS-CoV-2](<https://github.com/lauringlab/general_reports_sc2>)
 
 ##### RShiny Applications
 
