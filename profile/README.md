@@ -8,7 +8,9 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 ##### Repositories for Published Work
 
-* [Analysis for Bendall et. al., 2022](<https://github.com/lauringlab/SARS-CoV-2_Household_diversity>): Bendall, E.,  Paz-Bailey, G., Santiago, G. A., Porucznik, C. A., Stanford, J. B., Stockwell, M. S., Duque, J., Jeddy, A., Veguilla, V., Major, C>, Rivera-Amill, V., Rolfes, M. A., Dawood, F. S., Lauring, A. S. (2022). SARS-CoV-2 genomic diversity in households highlights the challenges of sequence-based transmission inference. medRxiv 2022.08.09.22278452; doi: https://doi.org/10.1101/2022.08.09.22278452.
+* [Analysis for Bendall et. al., 2022](<https://github.com/lauringlab/SARS-CoV-2_VOC_transmission_bottleneck>): Bendall, E.E., Callear, A.P., Getz, A. et al. Rapid transmission and tight bottlenecks constrain the evolution of highly transmissible SARS-CoV-2 variants. Nat Commun 14, 272 (2023). https://doi.org/10.1038/s41467-023-36001-5.
+
+* [Analysis for Bendall et. al., 2022](<https://github.com/lauringlab/SARS-CoV-2_Household_diversity>): Bendall, E.,  Paz-Bailey, G., Santiago, G. A., Porucznik, C. A., Stanford, J. B., Stockwell, M. S., Duque, J., Jeddy, A., Veguilla, V., Major, C>, Rivera-Amill, V., Rolfes, M. A., Dawood, F. S., Lauring, A. S. (2022). SARS-CoV-2 genomic diversity in households highlights the challenges of sequence-based transmission inference. American Society for Microbiology - mSphere; doi: https://doi.org/10.1128/msphere.00400-22.
 
 * [Analysis for Valesano et. al., 2021](<https://github.com/lauringlab/SARS2_Fall_2020>): Valesano, A. L., Fitzsimmons, W. J., Blair, C. N., Woods, R. J., Gilbert, J., Rudnik, D., Mortenson, L., Friedrich, T. C., O'Connor, D. H., MacCannell, D. R., Petrie, J. G., Martin, E. T., & Lauring, A. S. (2021). SARS-CoV-2 Genomic Surveillance Reveals Little Spread From a Large University Campus to the Surrounding Community. Open forum infectious diseases, 8(11), ofab518. https://doi.org/10.1093/ofid/ofab518
 
