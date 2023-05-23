@@ -47,6 +47,8 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [Codon Shuffle Package](<https://github.com/lauringlab/CodonShuffle>): Jorge D M M, Mills R E, Lauring A S, CodonShuffle: a tool for generating and analyzing synonymously mutated sequences. Virus Evolution, 2015, 1(1): vev012
 
+* [Post- Consensus Genome Creation Pipeline](<https://github.com/lauringlab/COVID19SequenceCompile>)
+
 
 ##### General Use
 
