@@ -8,6 +8,9 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 ##### Repositories for Published Work
 
+* [Analysis for Li et. al., 2023](<https://github.com/YuanLiUmich/PB1DMS>): Li, Y, Arcos, S, Sabsay, K.R., te Velthuis, A.J.W., Lauring, A.S. Deep mutational scanning reveals the functional constraints and evolutionary potential of the influenza A virus PB1 protein. https://doi.org/10.1101/2023.08.27.554986.
+
+
 * [Analysis for Bendall et. al., 2022](<https://github.com/lauringlab/SARS-CoV-2_VOC_transmission_bottleneck>): Bendall, E.E., Callear, A.P., Getz, A. et al. Rapid transmission and tight bottlenecks constrain the evolution of highly transmissible SARS-CoV-2 variants. Nat Commun 14, 272 (2023). https://doi.org/10.1038/s41467-023-36001-5.
 
 * [Analysis for Bendall et. al., 2022](<https://github.com/lauringlab/SARS-CoV-2_Household_diversity>): Bendall, E.,  Paz-Bailey, G., Santiago, G. A., Porucznik, C. A., Stanford, J. B., Stockwell, M. S., Duque, J., Jeddy, A., Veguilla, V., Major, C>, Rivera-Amill, V., Rolfes, M. A., Dawood, F. S., Lauring, A. S. (2022). SARS-CoV-2 genomic diversity in households highlights the challenges of sequence-based transmission inference. American Society for Microbiology - mSphere; doi: https://doi.org/10.1128/msphere.00400-22.
