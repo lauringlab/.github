@@ -10,6 +10,7 @@ Visit the laboratory website [here](<https://lauringlab.wordpress.com/>).
 
 * [Analysis for Li et. al., 2023](<https://github.com/YuanLiUmich/PB1DMS>): Li, Y, Arcos, S, Sabsay, K.R., te Velthuis, A.J.W., Lauring, A.S. Deep mutational scanning reveals the functional constraints and evolutionary potential of the influenza A virus PB1 protein. https://doi.org/10.1101/2023.08.27.554986.
 
+* [Analysis for Arcos et. al., 2023](<https://github.com/lauringlab/timeMI>): Arcos, S, Han, A.X., te Velthuis, A.J.W., Russell, C.A., Lauring, A.S. Mutual information networks reveal evolutionary relationships within the influenza A virus polymerase. https://doi.org/10.1093/ve/vead037.
 
 * [Analysis for Bendall et. al., 2022](<https://github.com/lauringlab/SARS-CoV-2_VOC_transmission_bottleneck>): Bendall, E.E., Callear, A.P., Getz, A. et al. Rapid transmission and tight bottlenecks constrain the evolution of highly transmissible SARS-CoV-2 variants. Nat Commun 14, 272 (2023). https://doi.org/10.1038/s41467-023-36001-5.
 
